@@ -1,0 +1,18 @@
+{
+  "app": {
+    "title": "Lịch âm dương",
+    "headerTitle": "Lịch âm dương",
+    "headerColor": "#166534",
+    "textColor": "white",
+    "statusBarColor": "#166534",
+    "leftButton": "back",
+    "statusBar": "normal",
+    "actionBarHidden": false,
+    "hideAndroidBottomNavigationBar": false,
+    "hideIOSSafeAreaBottom": false
+  },
+  "debug": false,
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": []
+}

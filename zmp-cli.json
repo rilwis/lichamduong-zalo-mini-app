@@ -1,0 +1,17 @@
+{
+  "cwd": "/Users/rilwis/lichamduong-zalo-mini-app",
+  "newProject": true,
+  "name": "Lịch âm dương",
+  "package": "zmp-ui",
+  "framework": "react",
+  "cssPreProcessor": false,
+  "template": "single-view",
+  "includeTailwind": false,
+  "theming": {
+    "color": "#166534",
+    "darkTheme": false,
+    "fillBars": false
+  },
+  "customBuild": false,
+  "stateManagement": "recoil"
+}
